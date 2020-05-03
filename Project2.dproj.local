@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.817,=C:\Users\dlawh\Desktop\체커\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.796,C:\Users\dlawh\Desktop\체커\Unit1.dfm=C:\Users\dlawh\Desktop\체커\Format.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.796,C:\Users\dlawh\Desktop\체커\Unit1.pas=C:\Users\dlawh\Desktop\체커\Format.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.367,C:\Users\dlawh\OneDrive\문서\Embarcadero\Studio\Projects\Project2.dproj=C:\Users\dlawh\Desktop\체커\Project2.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.363,C:\Users\dlawh\Desktop\체커\Unit2.pas=C:\Users\dlawh\Desktop\체커\Main.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.035,=C:\Users\dlawh\OneDrive\문서\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.569,C:\Users\dlawh\OneDrive\문서\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\dlawh\Desktop\체커\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.534,=C:\Users\dlawh\OneDrive\문서\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.363,C:\Users\dlawh\Desktop\체커\Unit2.dfm=C:\Users\dlawh\Desktop\체커\Main.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.569,C:\Users\dlawh\OneDrive\문서\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\dlawh\Desktop\체커\Unit2.dfm</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
